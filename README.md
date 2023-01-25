@@ -3,7 +3,7 @@ Final Submission Swift Fundamental - Dicoding
 
 Name of app: Tarucing Game Catalogue
 
-Inspiratuin: Tarucing was taken from Sundanese, tatarucingan. It means the game of guessing with alphabet.
+Inspiration: Tarucing was taken from Sundanese, tatarucingan. It means the game of guessing with alphabet.
 Dicoding Swift Fundamental submission project was game catalogue theme. 
 
 So, let tatarucingan....
