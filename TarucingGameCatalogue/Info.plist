@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>EncodeSansCondensed-Black.ttf</string>
+		<string>EncodeSansCondensed-Bold.ttf</string>
+		<string>EncodeSansCondensed-ExtraBold.ttf</string>
+		<string>EncodeSansCondensed-ExtraLight.ttf</string>
+		<string>EncodeSansCondensed-Light.ttf</string>
+		<string>EncodeSansCondensed-Medium.ttf</string>
+		<string>EncodeSansCondensed-Regular.ttf</string>
+		<string>EncodeSansCondensed-SemiBold.ttf</string>
+		<string>EncodeSansCondensed-Thin.ttf</string>
+		<string>Exo2-Black.ttf</string>
+		<string>Exo2-BlackItalic.ttf</string>
+		<string>Exo2-Bold.ttf</string>
+		<string>Exo2-BoldItalic.ttf</string>
+		<string>Exo2-ExtraBold.ttf</string>
+		<string>Exo2-ExtraBoldItalic.ttf</string>
+		<string>Exo2-ExtraLight.ttf</string>
+		<string>Exo2-ExtraLightItalic.ttf</string>
+		<string>Exo2-Italic.ttf</string>
+		<string>Exo2-Light.ttf</string>
+		<string>Exo2-LightItalic.ttf</string>
+		<string>Exo2-Medium.ttf</string>
+		<string>Exo2-MediumItalic.ttf</string>
+		<string>Exo2-Regular.ttf</string>
+		<string>Exo2-SemiBold.ttf</string>
+		<string>Exo2-SemiBoldItalic.ttf</string>
+		<string>Exo2-Thin.ttf</string>
+		<string>Exo2-ThinItalic.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tarucing_hut_ri_77.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tarucing_hut_ri_77@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tarucing_hut_ri_77@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
